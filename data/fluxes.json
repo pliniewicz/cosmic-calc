@@ -1,0 +1,17 @@
+[
+    {
+        "frequency": 1.43e9,
+        "flux": 1e-26,
+        "flux_error": 0.1e-26
+    },
+    {
+        "frequency": 4.86e9,
+        "flux": 3.8e-26,
+        "flux_error": 0.4e-26
+    },
+    {
+        "frequency": 2.42e17,
+        "flux": 2.5e-32,
+        "flux_error": 0.5e-32
+    }
+]
