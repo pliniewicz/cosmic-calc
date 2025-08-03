@@ -84,6 +84,7 @@ int main(int argc, char *argv[]) {
     }
     if (!distance_flag && !fluxes_flag) {
         printf("Config file: %s\n", config_file);
+        print_parameters(&params);
         printf("Redshift: %.5f\n", z);
     }
 
